@@ -181,7 +181,7 @@ sections:
         altText: selinux
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/com.github.marhkb.Pods (1).svg
         altText: Image alt text placeholder
         elementId: ''
         styles:
