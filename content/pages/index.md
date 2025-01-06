@@ -740,7 +740,7 @@ sections:
 seo:
   metaTitle: Home - Peux OS
   metaDescription: A unique arch spin-off
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/800x600_0.png
   type: Seo
 type: PageLayout
 ---
