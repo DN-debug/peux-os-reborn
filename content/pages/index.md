@@ -172,7 +172,7 @@ sections:
         altText: flathub
         type: ImageBlock
       - url: /images/contenful-logo.svg
-        altText: Contentful logo
+        altText: github
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
