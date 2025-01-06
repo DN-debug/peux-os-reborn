@@ -27,7 +27,7 @@
             "label": "About",
             "altText": "About",
             "url": "/about",
-            "icon": "arrowRight",
+            "icon": "chevronLeft",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
