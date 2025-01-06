@@ -177,7 +177,7 @@ sections:
       - url: /images/brand-bittorrent-svgrepo-com.svg
         altText: fosstorrents
         type: ImageBlock
-      - url: /images/TLIJ6f01 (1).svg
+      - url: /images/TLIJ6f01 (1) (1).svg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
