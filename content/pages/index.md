@@ -58,10 +58,12 @@ sections:
       - type: FeaturedItem
         title: Customized Environment
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Peux OS uses customized XFCE as its default-version. BTRFS is the
+          default filesystem with auto-snap enabled. It is the first distro to
+          highly customize the default key features of a DE. Aiming to have a
+          minimal desktop and yet beautiful.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
