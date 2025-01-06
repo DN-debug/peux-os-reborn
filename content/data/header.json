@@ -30,7 +30,8 @@
             "icon": "chevronLeft",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "elementId": "about"
         },
         {
             "label": "Careers",
