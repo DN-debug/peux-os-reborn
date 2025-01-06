@@ -182,7 +182,7 @@ sections:
         type: ImageBlock
       - type: ImageBlock
         url: /images/com.github.marhkb.Pods (1).svg
-        altText: Image alt text placeholder
+        altText: Pods
         elementId: ''
         styles:
           self:
