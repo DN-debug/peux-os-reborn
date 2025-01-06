@@ -739,7 +739,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Peux OS
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: A unique arch spin-off
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
