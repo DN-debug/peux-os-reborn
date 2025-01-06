@@ -163,7 +163,7 @@ sections:
   - subtitle: ''
     images:
       - url: /images/Stackbit-Icon--Streamline-Svg-Logos (1).svg
-        altText: Empathy logo
+        altText: stackbit
         type: ImageBlock
       - url: /images/sourceforge-svgrepo-com.svg
         altText: sourceforge
