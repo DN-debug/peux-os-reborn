@@ -168,11 +168,11 @@ sections:
       - url: /images/github-svgrepo-com.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/foss-torrents-logo.svg
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/Flatpak--Streamline-Simple-Icons.svg
         altText: Telus logo
+        type: ImageBlock
+      - url: /images/foss-torrents-logo.svg
+        altText: Vise logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
