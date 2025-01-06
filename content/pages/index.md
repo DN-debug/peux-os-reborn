@@ -166,7 +166,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/sourceforge-svgrepo-com.svg
-        altText: Telus logo
+        altText: sourceforge
         type: ImageBlock
       - url: /images/Flathub--Streamline-Simple-Icons.svg
         altText: Vise logo
