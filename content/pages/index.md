@@ -118,10 +118,11 @@ sections:
         type: FeaturedItem
       - title: Apps & Packages
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          PACMAN is the default CLI package manager along with yay as an
+          alternative. For GUI, we are Bauh (ba-oo) -- one stop shop for
+          Snaps/Flatpaks/Appimages and of-course AUR
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
