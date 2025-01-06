@@ -118,11 +118,10 @@ sections:
         type: FeaturedItem
       - title: Apps & Packages
         subtitle: ''
-        text: >+
+        text: >
           PACMAN is the default CLI package manager along with yay as an
-          alternative. For GUI, we are Bauh (ba-oo) -- one stop shop for
-          Snaps/Flatpaks/Appimages and of-course AUR
-
+          alternative. For GUI, we are Bauh (ba-oo) -- one stop shop for Snaps,
+          Flatpaks, Appimages and AUR.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
