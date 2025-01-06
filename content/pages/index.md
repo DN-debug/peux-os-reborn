@@ -16,7 +16,7 @@ sections:
       - label: Download
         altText: ''
         url: /download
-        showIcon: false
+        showIcon: true
         icon: play
         iconPosition: right
         style: secondary
