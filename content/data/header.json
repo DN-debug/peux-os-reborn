@@ -31,7 +31,8 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "elementId": "about"
+            "elementId": "about",
+            "showIcon": true
         },
         {
             "label": "Mini-Notes",
