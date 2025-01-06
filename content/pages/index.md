@@ -174,7 +174,7 @@ sections:
       - url: /images/Github-Icon--Streamline-Svg-Logos.svg
         altText: github
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/brand-bittorrent-svgrepo-com.svg
         altText: fosstorrents
         type: ImageBlock
       - url: /images/rangle-logo.svg
