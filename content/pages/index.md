@@ -165,7 +165,7 @@ sections:
       - url: /images/stackbit-icon-svgrepo-com.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/Flatpak--Streamline-Simple-Icons.svg
+      - url: /images/Flatpak--Streamline-Simple-Icons (1).svg
         altText: Telus logo
         type: ImageBlock
       - url: /images/foss-torrents-logo.svg
