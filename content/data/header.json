@@ -24,7 +24,7 @@
             "elementId": "home"
         },
         {
-            "label": "Blog",
+            "label": "About",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
