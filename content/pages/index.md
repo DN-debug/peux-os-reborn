@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: /download
         showIcon: false
-        icon: arrowRight
+        icon: play
         iconPosition: right
         style: secondary
         elementId: ''
