@@ -162,7 +162,7 @@ sections:
         textAlign: center
   - subtitle: ''
     images:
-      - url: /images/Stackbit--Streamline-Svg-Logos (2).svg
+      - url: /images/Stackbit--Streamline-Svg-Logos (3).svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/Flatpak--Streamline-Simple-Icons (1).svg
