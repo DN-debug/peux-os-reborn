@@ -162,7 +162,7 @@ sections:
         textAlign: center
   - subtitle: ''
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/stackbit-icon-svgrepo-com.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
