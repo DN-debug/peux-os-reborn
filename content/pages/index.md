@@ -13,7 +13,7 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Download
+      - label: DOWNLOAD
         altText: ''
         url: /download
         showIcon: true
