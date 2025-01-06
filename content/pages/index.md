@@ -168,7 +168,7 @@ sections:
       - url: /images/Flatpak--Streamline-Simple-Icons (1).svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/foss-torrents-logo.svg
+      - url: /images/Flathub--Streamline-Simple-Icons.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
