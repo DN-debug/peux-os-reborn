@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      \| beautiful, minimal, secure, and highly customized Archlinux-distro
+      \| beautiful, minimal, secure, and highly customized Arch spin-off
     actions:
       - label: DOWNLOAD
         altText: ''
