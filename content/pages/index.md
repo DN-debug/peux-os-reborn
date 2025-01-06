@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Peux OS || [POS]'
+      text: 'Peux OS | [POS]'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
