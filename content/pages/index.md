@@ -178,7 +178,7 @@ sections:
         altText: fosstorrents
         type: ImageBlock
       - url: /images/TLIJ6f01 (1) (1).svg
-        altText: Rangle logo
+        altText: selinux
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
