@@ -165,9 +165,6 @@ sections:
       - url: /images/stackbit-icon-svgrepo-com.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/github-svgrepo-com.svg
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/Flatpak--Streamline-Simple-Icons.svg
         altText: Telus logo
         type: ImageBlock
