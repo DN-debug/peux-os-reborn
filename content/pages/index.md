@@ -20,7 +20,7 @@ sections:
         icon: play
         iconPosition: right
         style: primary
-        elementId: ''
+        elementId: download
         type: Button
       - label: See Tutorials
         altText: ''
