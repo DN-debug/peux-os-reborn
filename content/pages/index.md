@@ -169,7 +169,7 @@ sections:
         altText: sourceforge
         type: ImageBlock
       - url: /images/Flathub--Streamline-Simple-Icons.svg
-        altText: Vise logo
+        altText: flathub
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
