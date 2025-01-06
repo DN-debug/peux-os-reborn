@@ -171,7 +171,7 @@ sections:
       - url: /images/Flathub--Streamline-Simple-Icons.svg
         altText: flathub
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/Github-Icon--Streamline-Svg-Logos.svg
         altText: github
         type: ImageBlock
       - url: /images/sanity-logo.svg
