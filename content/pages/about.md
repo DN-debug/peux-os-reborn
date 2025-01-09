@@ -16,13 +16,7 @@ sections:
       never really an idea to convert it into a distro. COVID-19 boredom made it
       possible.
 
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
