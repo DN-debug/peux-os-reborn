@@ -1,9 +1,4 @@
 {
-    "logo": {
-        "url": "/images/icon.webp",
-        "altText": "Peux OS",
-        "type": "ImageBlock"
-    },
     "text": "Peux OS - Penguin with a Tux\n",
     "socialLinks": [],
     "legalLinks": [
