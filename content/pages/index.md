@@ -205,43 +205,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Where to download from?
-      color: text-dark
-    subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    elementId: downloiad
   - title: Divider
     colors: bg-light-fg-dark
     styles:
