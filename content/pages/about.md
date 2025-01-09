@@ -11,11 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
-      Peux OS was initially a customized arch for my personal use only. It was
-      never really an idea to convert it into a distro. COVID-19 boredom made it
-      possible.
-
+    text: "Peux OS was initially a customized arch for my personal use. It was never really an idea to convert it into a distro. COVID-19 boredom made it possible. Bitter truth is that you'll find many arch-based distros out there. \n\nThen why Peux OS? Well, its a proof that community-driven ideas and already existing tools can make the experience so much better. Further tweaks can make it more than better.\n\n\nNow, honestly speaking, it's just a hobby.\_The project began in year 2020 with test releases and the first stable ISO was released in Feb 2021. It's been a bit more than 4 years now, out of which this project stayed dormant for 2 years due to my personal issues. \n\nPeux OS received a lot of positive reviews and some not so good ones. I only wanted to share my way of customizing the \"LINUX\" environment with the World, not in a competitive manner but as a guide to beginners and intermediate Linux users. Peux OS is not really a distro, it is more of a highly customized spin-off of Arch Linux, bundled with some very useful tools. \n\nIt made the headlines with its 4 Desktop Environments, XFCE being the most unique of all, that was followed up with 9 Tiling Window Managers. That being said, on its wake after 2 years the plans have changed, Peux OS will only ship XFCE. \n\nI hope to continue this journey and keep sharing my experience with you good people out there."
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
