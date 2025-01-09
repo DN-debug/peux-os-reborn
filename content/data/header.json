@@ -32,7 +32,7 @@
             "style": "secondary",
             "type": "Link",
             "elementId": "about",
-            "showIcon": true
+            "showIcon": false
         },
         {
             "label": "Mini-Notes",
