@@ -11,12 +11,11 @@ sections:
         self:
           textAlign: center
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      Peux OS was initially a customized arch for my personal use only. It was
+      never really an idea to convert it into a distro. COVID-19 boredom made it
+      possible.
+
     actions:
       - type: Button
         label: See open positions
