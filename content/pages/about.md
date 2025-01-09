@@ -60,7 +60,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Peux OS XFCE Review
       url: 'https://www.youtube.com/watch?v=eSYdnToDpjU&t=11s'
       autoplay: false
       loop: false
