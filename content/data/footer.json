@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "Peux OS - Penguin with a Tux\n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Copyright@2022 | In Partnership with FOSSTORRENTS",
