@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: What is Peux OS all about?
+      text: The Journey
       color: text-dark
       styles:
         self:
