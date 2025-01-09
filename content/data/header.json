@@ -80,7 +80,7 @@
     "secondaryLinks": [
         {
             "label": "Download",
-            "url": "/",
+            "url": "/download",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
