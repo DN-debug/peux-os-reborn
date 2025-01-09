@@ -209,7 +209,7 @@ sections:
     title:
       type: TitleBlock
       text: Where to download from?
-      color: text-dark
+      color: text-primary
     subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
