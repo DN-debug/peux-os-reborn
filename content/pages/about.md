@@ -36,26 +36,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://www.youtube.com/watch?v=eSYdnToDpjU&t=11s'
-      autoplay: false
-      loop: false
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
   - type: DividerSection
     title: Divider
     elementId: ''
