@@ -48,13 +48,6 @@ sections:
           - pb-3
           - pr-3
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
     subtitle: ''
     text: ''
     actions: []
