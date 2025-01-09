@@ -205,16 +205,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: GenericSection
     title:
       type: TitleBlock
@@ -251,6 +241,16 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
 seo:
   metaTitle: Home - Peux OS
   metaDescription: A unique arch spin-off
